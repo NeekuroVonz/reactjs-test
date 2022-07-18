@@ -5,6 +5,9 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  width: 50vh;
+  height: 50vh;
+  border-radius: 50%;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -14,7 +17,8 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  width: 196vh;
+  background-color: rgb(126, 102, 184);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
